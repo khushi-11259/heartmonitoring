@@ -23,6 +23,12 @@ This project is a pulse oximeter system built using Arduino and the MAX30100 sen
 
 The MAX30100 sensor collects pulse and oxygen data from the user. Arduino processes this data and sends it to ThingSpeak via the ESP8266 module. The platform displays the readings as live graphs, which can be accessed anytime using a browser.
 
+Working picture = ![alt text](<Smart watch - WORKING SYSTEM.jpeg>)
+
+Working pictures = 
+
+
+
 ## Setup
 
 1. Connect MAX30100 sensor to Arduino
@@ -30,6 +36,9 @@ The MAX30100 sensor collects pulse and oxygen data from the user. Arduino proces
 3. Add WiFi credentials and ThingSpeak Write API Key in code
 4. Upload code using Arduino IDE
 5. Open ThingSpeak channel to view live data
+ 
+ Pin Diagram = ![alt text](<circuit diagram HM.jpeg>)
+
 
 ## Output
 
@@ -43,3 +52,10 @@ Khushi Gupta
 Vedant Garthe 
 Garv Saxena
 Abhijeet Verma 
+
+
+## PPT
+
+[text](<../../Iot based smart watch for heart beat monitoring.pptx>)
+
+https://1drv.ms/p/c/d1321dd333ab10bd/IQD0OJIdIAxrRoaQzgkvd-COAVnBc6GhxnexrNtRllU2-D4?e=MrHJ2t
